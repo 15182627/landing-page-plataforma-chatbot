@@ -20,5 +20,3 @@ git add .    todo en uno
 --------
 ####Ejemplo
 COPIAR EL ARCHIVO(.env.example) a (.env)  y actualizar credenciales
-
-#####HOLI
